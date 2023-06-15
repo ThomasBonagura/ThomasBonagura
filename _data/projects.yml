@@ -1,13 +1,11 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Cryptocurrency Web Developmet Project
+  description: Programmed backend utilizing Rest APIs and WebSocket to continously stream information from cryptocurrency and stock websites to track traffic and gas fees of 11 different coins.
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: CryptoCurrency Ethereum and LiteCoin tracker
+  description: Program to update information including total volume, trading traffic, and price of Ethereum and Litecoin coded in Python.
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: Algorithimic comparison of Bellman-Ford and Dijkstra's algorithm.
+  description: Group project comparing the two shortest-path algorithms time complexity and space complexity on different graphs. After comparing the programs themselves, we wrote a research paper comparing the details and code involved in both algorithms.
 
-- name: Project 4
-  description: A few sentences describing your project.

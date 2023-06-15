@@ -1,13 +1,13 @@
 #LinkedIn
-#https://www.linkedin.com/in/{{LinkedInUsername}}/
-linkdin_username: /
+#https://www.linkedin.com/in/thomas-bonagura/
+linkdin_username: /thomas-bonagura
 
 #GitHub
-#https://github.com/{{GitHubUsername}}
-github_username: /
+#https://github.com/{ThomasBonagura}
+github_username: /ThomasBonagura
 
-#https://github.com/{{GitHubUsername}}/{{GitHubRepo}}
-github_repo: /
+#https://github.com/ThomasBonagura/ThomasBonagura
+github_repo: /ThomasBonagura
 
 #The email you'd like people to contact you with.
-email: /
+email: /tombonagura@gmail.com

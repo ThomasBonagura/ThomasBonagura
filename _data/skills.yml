@@ -1,36 +1,36 @@
-header: Say something about what you're good at
+header: Excellent communication and programming skills.
 
-subheader: Give some more context
+subheader: I have worked on many projects, leading groups and utilizing both coding and communication to tackle tasks and problems in an efficient manner.
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Speed
+    description: Super-fast response time, development, and ability to learn new topics for specified roles.
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Dedication
+    description: Only producing the highest quality work whilst perserving through any obstacle one might encounter.
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Communication
+    description: Excel at team building in regards to communicating thoughts and ideas.
 
 #If you have certifications, talk about them here
-certifications:
-  - name: Certification 1
-    topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
+#certifications:
+ # - name: Certification 1
+  #  topics:
+   #   - Topic 1A
+   #   - Topic 1B
+  #    - Topic 1C
+   #   - Topic 1D
 
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
+ # - name: Certification 2
+ #   topics:
+ #     - Topic 2A
+  #    - Topic 2B
+  #    - Topic 2C
+   #   - Topic 2D
 
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
+ # - name: Certification 3
+ #   topics:
+  #    - Topic 3A
+  #    - Topic 3B
+  #    - Topic 3C
+   #   - Topic 3D
