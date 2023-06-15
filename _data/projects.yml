@@ -1,6 +1,6 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Cryptocurrency Web Developmet Project
+- name: Cryptocurrency Web Development Project
   description: Programmed backend utilizing Rest APIs and WebSocket to continously stream information from cryptocurrency and stock websites to track traffic and gas fees of 11 different coins.
 
 - name: CryptoCurrency Ethereum and LiteCoin tracker
